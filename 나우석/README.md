@@ -1,4 +1,4 @@
-<img width="169" height="123" alt="image" src="https://github.com/user-attachments/assets/89854baa-d7ee-44cd-ad33-92f6fbbfc02f" /># AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 나우석
 - 리뷰어 : 김성훈
 
